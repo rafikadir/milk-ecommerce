@@ -1,0 +1,9 @@
+.footer-area {
+    background: #ff6060;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.footer-area p {
+    margin-bottom: 0;
+    color: aliceblue;
+}

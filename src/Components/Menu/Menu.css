@@ -1,0 +1,32 @@
+.main-menu {
+    border-bottom: 1px solid #dee2e6!important;
+}
+.navbar-light .navbar-nav .menuLink {
+    color: #000 !important;
+    margin: 0 15px;
+    font-weight: 500;
+    padding-top: 5px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.loginBtn {
+    background: #FF6E40!important;
+    padding: 6px 20px !important;
+    margin-left: 10px;
+    color: #fff;
+    text-transform: uppercase;
+    transition:.5s;
+    border: 1px solid transparent;
+}
+.loginBtn:hover {
+    text-decoration: none;
+    color: #FF6E40!important;
+    background: #fff !important;
+    border: 1px solid #FF6E40;
+}

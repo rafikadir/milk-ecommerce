@@ -1,0 +1,26 @@
+
+.googleLogIn ul {
+    padding-left: 0;
+}
+
+.googleLogIn {
+    max-width: 500px;
+    margin: auto;
+}
+.googleLogIn ul li {
+    list-style: none;
+}
+.googleLogIn {
+    text-align: center;
+}
+.googleLogIn h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.socialBtn {
+    width: 70%;
+    border: 1px solid red !important;
+    border-radius: 0px !important;
+    background: #fff !important;
+    color: red !important;
+}

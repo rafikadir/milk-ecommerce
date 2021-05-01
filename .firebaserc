@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fresh-milk1"
+  },
+  "targets": {
+    "fresh-milk1": {
+      "hosting": {
+        "tr": [
+          "freshmilk11"
+        ]
+      }
+    }
+  }
+}

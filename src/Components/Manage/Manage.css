@@ -1,0 +1,14 @@
+button {
+    background: #FF6E40!important;
+    padding: 6px 20px !important;
+    margin-left: 10px;
+    color: #fff !important;
+    text-transform: uppercase;
+    transition: .5s;
+    border: 1px solid transparent;
+    border-radius:0px !important;
+}
+
+.table-data td {
+    text-transform: capitalize;
+}

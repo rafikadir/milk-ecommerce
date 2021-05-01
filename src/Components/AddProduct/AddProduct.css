@@ -1,0 +1,39 @@
+.save-btn {
+    background: #71BA58 !important;
+    padding: 10px 40px !important;
+    border: 0px solid transparent !important;
+    margin-top: 50px !important;
+}
+
+.addProduct {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.nav-link.active {
+    color: red;
+}
+.addProduct input{
+    border: 1px solid #f89191;
+    padding: 5px 10px;
+    border-radius: 0px;
+    margin-bottom: 15px;
+    width: 300px;
+}
+
+.addProduct button{
+    border: 0;
+    background: #ea5656;
+    color: white;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+
+label {
+    font-size: 16px;
+    font-weight: 500;
+}
+.addProduct h2 {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+

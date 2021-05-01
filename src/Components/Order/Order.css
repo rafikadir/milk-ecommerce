@@ -1,0 +1,18 @@
+.orderlist {
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    list-style: none;
+}
+h1 {
+    margin-bottom: 25px !important;
+}
+
+.orderName {
+    color: rgb(145, 113, 113);
+    font-size: 22px;
+}
+.order-list-head {
+    font-size: 30px;
+}

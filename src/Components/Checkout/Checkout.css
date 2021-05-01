@@ -1,0 +1,35 @@
+.topTitle {
+    color: #ff6d6d;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.bottomArea {
+    border-top: 1px solid #cecece91;
+    margin-top: 20px;
+}
+.checkoutBtn {
+    background: #71BA58 !important;
+    border: 0px !important;
+    margin-top: 30px;
+    font-size:18px !important;
+    padding: 8px 25px;
+    display: inline-block;
+}
+
+.product-info {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 0;
+}
+.bottomArea h1 {
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 0 !important;
+}
+.bottomArea h4 {
+    font-size: 30px;
+    margin-top: 45px;
+    margin-bottom: 0;
+}

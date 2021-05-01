@@ -1,0 +1,11 @@
+.side-navbar {
+    background:#203D37;
+    height: 100%;
+    padding: 30px;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+.nav-link {
+    color: #fff;
+    margin-left: 20px;
+}
